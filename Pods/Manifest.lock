@@ -1,0 +1,26 @@
+PODS:
+  - ChameleonFramework/Default (2.1.0)
+  - ChameleonFramework/Swift (2.1.0):
+    - ChameleonFramework/Default
+  - DKChainableAnimationKit (1.6.1)
+  - Fakery (1.2.0):
+    - SwiftyJSON
+  - SwiftyJSON (2.3.2)
+  - youtube-ios-player-helper (0.1.6)
+
+DEPENDENCIES:
+  - ChameleonFramework/Swift
+  - DKChainableAnimationKit
+  - Fakery
+  - youtube-ios-player-helper (~> 0.1.4)
+
+SPEC CHECKSUMS:
+  ChameleonFramework: d21a3cc247abfe5e37609a283a8238b03575cf64
+  DKChainableAnimationKit: e4e605d253ee153cb600efa68f8c97ed118122a7
+  Fakery: ff6a27c3688a05c055d3e64c5fa9d78684796749
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+  youtube-ios-player-helper: 21ab92db027c7ff86cb17a3843a3f6eafc8158d2
+
+PODFILE CHECKSUM: ffe484805b8d415aa33ffd617fb1adf4579f8ad9
+
+COCOAPODS: 1.0.1
